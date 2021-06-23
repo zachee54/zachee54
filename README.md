@@ -1,6 +1,6 @@
-👋 Hi, I’m @zachee54
-👀 I’m interested in chess, PHP web sites, Java desktop applications. I studied some data science. Developing is not my job but a hobby.
-🌱 I’m currently developing a few sites for personal or friends' purposes.
+👋 Hi, I’m @zachee54<br/>
+👀 I’m interested in chess, PHP web sites, Java desktop applications. I studied some data science. Developing is not my job but a hobby.<br/>
+🌱 I’m currently developing a few sites for personal or friends' purposes, as well as contribute to maintain the CakePHP CookBook french translation.<br/>
 💞️ I’d like to collaborate to a wider project during my free time.
 
 <!---
